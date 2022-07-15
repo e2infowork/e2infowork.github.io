@@ -2,20 +2,23 @@
 layout: page
 title: Sobre
 permalink: /about/
+published: true
 ---
 
-Nessa seção iremos fomentar com mais material técnico sobre BDD e forma de desenvolvimento orientado a comportamento.
+Nessa seção iremos atuar como facilitadores em relação aplicabilidade em contexto negocial da técnica BDD.
 
-### Mais informações sobre BDD
+### Informações sobre BDD
 
-Segue alguns links de referência técnica que descreve sobre BDD
-
-https://kenzie.com.br/blog/o-que-e-bdd/
-https://repositorio.unb.br/bitstream/10482/37458/1/2019_F%C3%A1bioBarrosLeal.pdf
-https://cucumber.io/docs/bdd/
-https://inviqa.com/blog/bdd-guide
+Segue alguns links de referência técnica que descreve mais sobre o processo de mapeamento de processo e desenvolvimento de software utilizando BDD.
 
 
-### Contato
+[https://kenzie.com.br/blog/o-que-e-bdd/](https://kenzie.com.br/blog/o-que-e-bdd/ "link-01")
 
-[email@domain.com](mailto:e2infowork@gmail.com)
+[https://cucumber.io/docs/bdd/](https://cucumber.io/docs/bdd/ "link-02")
+
+[https://inviqa.com/blog/bdd-guide](https://inviqa.com/blog/bdd-guide "link-03")
+
+
+### Contato para especificação técnica
+
+[e2infowork@gmail.com](mailto:e2infowork@gmail.com)
